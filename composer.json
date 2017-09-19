@@ -2,7 +2,7 @@
     "name": "terrazine/bin-laranew",
     "description": "Binary to create a laravel project in the current directory.",
     "type": "binary",
-    "license": "see terrazine/slayn",
+    "license": "see package slayn",
     "authors": [
         {
             "name": "Patrick 'Quezler' Mounier",
