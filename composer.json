@@ -11,5 +11,8 @@
     ],
     "require": {
         "laravel/installer": "^1.4"
-    }
+    },
+    "bin": [
+        "src/bin/laranew"
+    ]
 }
