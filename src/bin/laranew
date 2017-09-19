@@ -1,0 +1,7 @@
+#!/bin/bash
+# Create a new laravel project in an existing directory
+
+laravel new repo
+mv repo/* ./
+mv repo/.[!.]* ./
+rmdir repo/
